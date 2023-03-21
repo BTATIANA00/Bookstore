@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NameText">Nombre completo</string>
+    <string name="app_name">Bookstore</string>
+    <string name="passwordtext">Contraseña</string>
+    <string name="agetext">Edad</string>
+    <string name="Welcometext">¡Los estantes estan llenos!</string>
+    <string name="text1">Tu eres</string>
+    <string name="text2">Masculino</string>
+    <string name="text3">Femenino</string>
+    <string name="choose">Escoge tus generos favoritos</string>
+    <string name="gender1">Misterio</string>
+    <string name="gender2">Romance</string>
+    <string name="gender3">Aventura</string>
+    <string name="gender4">Fantasia</string>
+    <string name="activetext">Activar notificaciones</string>
+    <string name="gender6">Accion</string>
+    <string name="Finaltext">Un buen libro es aquel que se abre con expectativas y se cierra con provecho</string>
+    <string name="nametext">Nombre Completo</string>
+    <string name="passtext">Contraseña</string>
+    <string name="ageetext">Edad</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NameText">Full Name:</string>
+
+    <string name="app_name">Bookstore</string>
+    <string name="emailtext" translatable="false">E-mail:</string>
+    <string name="passwordtext">Password:</string>
+    <string name="agetext">Age:</string>
+    <string name="Welcometext">¡The shelves are full!</string>
+    <string name="text1">You are:</string>
+    <string name="text2">Male</string>
+    <string name="text3">Female</string>
+    <string name="choose">Choose your favorite gender</string>
+    <string name="gender1">Mystery</string>
+    <string name="gender2">Romance</string>
+    <string name="gender3">Adventure</string>
+    <string name="gender4">Fantasy</string>
+    <string name="gender5" translatable="false">Terror</string>
+    <string name="activetext">Anable notifications</string>
+    <string name="gender6">Action</string>
+    <string name="Finaltext">"            A good book is one that opens with expectation and closes with profit"</string>
+    <string name="nametext">Full Name</string>
+    <string name="passtext">Password</string>
+    <string name="ageetext">Age</string>
+    <string name="Agetext">Age</string>
+</resources>
